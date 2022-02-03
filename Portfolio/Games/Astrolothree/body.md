@@ -10,7 +10,7 @@ Programmer, Game Designer, and Project Lead
 
 ## Background
 
-This was for a week long [game jam hosted by SGDA](https://itch.io/jam/sgda-spring-jam) during the spring semester of 2021 and the theme for the jam was "Rule of Three". The team consisted of my roommate and two people that I had never met, and it was all done virtual. I was the only one with prior game development experience I ended up leading the team. Additionally, this was the first time I had an artist on the team and another programmer.
+I made Astrothree for a week long [game jam hosted by SGDA](https://itch.io/jam/sgda-spring-jam) during the spring semester of 2021 and the theme for the jam was "Rule of Three". The team consisted of my roommate and two people that I had never met, and it was all done virtual. I was the only one with prior game development experience I ended up leading the team. Additionally, this was the first time I had an artist on the team and another programmer.
 
 ## Summary
 
